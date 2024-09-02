@@ -6,25 +6,25 @@ const services = [
   {
     num:'01',
     title:'Web Development',
-    description:'Lorem ipsum dolor sit amet consectetur adipisicing elit. oluptates libero?',
+    description:'I offer custom web development services that bring your ideas to life with clean, responsive, and modern designs. Specializing in creating user-friendly interfaces with technologies like React.js, Tailwind CSS, and Chakra UI, I ensure your website is optimized for performance and scalability. Whether you need a simple landing page or a complex web application, I am committed to delivering solutions that exceed your expectations and drive results',
     href:''
   },
   {
     num:'02',
     title:'UI-UX Design',
-    description:'Lorem ipsum dolor sit amet consectetur adipisicing elit. oluptates libero?',
+    description:'I provide intuitive UI/UX design services that focus on creating seamless and engaging user experiences. By combining creativity with a user-centered approach, I design interfaces that are not only visually appealing but also functional and easy to navigate. With expertise in tools like Figma and Adobe XD, I ensure that every design is optimized for both aesthetics and usability, helping your digital products stand out and resonate with your target audience.',
     href:''
   },
   {
     num:'03',
     title:'Frontend Development',
-    description:'Lorem ipsum dolor sit amet consectetur adipisicing elit. oluptates libero?',
+    description:'I specialize in building dynamic and responsive frontend solutions that bring your vision to life. Leveraging modern technologies like React.js, Next.js, and Tailwind CSS, I create user-friendly interfaces that deliver a seamless experience across all devices. My focus is on writing clean, efficient code that enhances performance and scalability, ensuring your web applications are both robust and visually appealing.',
     href:''
   },
   {
     num:'04',
     title:'MERN Stack Development',
-    description:'Lorem ipsum dolor sit amet consectetur adipisicing elit. oluptates libero?',
+    description:'I offer comprehensive MERN stack development services, delivering full-stack web applications that are both powerful and scalable. By integrating MongoDB, Express.js, React.js, and Node.js, I create robust solutions tailored to your specific needs. From designing intuitive frontends to building efficient backend architectures, I ensure seamless functionality and optimal performance, providing end-to-end development that transforms your ideas into high-quality digital products.',
     href:''
   },
 ]

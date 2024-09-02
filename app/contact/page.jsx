@@ -49,7 +49,7 @@ const Contact = () => {
             <form className='flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl'>
               <h3 className='text-4xl text-accent'>Let's work together</h3>
               <p className='text-white/60'>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia porro dolorum recusandae aspernatur laudantium beatae, ea adipisci reprehenderit vero numquam? Incidunt qui corrupti.
+              I'm always excited to collaborate on new projects and bring ideas to life. Whether you're looking to build a dynamic web application, enhance your existing platform, or explore innovative solutions, I'm here to help. Let's work together to create something amazing. Reach out today, and let's start a conversation!
               </p>
               <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
                 <Input type='text' placeholder="First name" />

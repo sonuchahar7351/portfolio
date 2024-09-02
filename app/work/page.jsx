@@ -22,25 +22,44 @@ const projects = [
     num: "01",
     category: "Full Stack",
     title: "project 1",
-    description: "laalfjl jfjkf akldfjakdf lkjdfkfjsdfl slfdjaslf ",
+    description: "It is a social media app like instagram threads app where user can create post, comment on post, likes post, and key features of this project is that user can do live chat",
     stack: [{ name: "React.js" }, { name: "Node.js" }, { name: "MongoDB" }],
     image: "/assets/work/thumb1.png",
-    live: "",
-    github: "",
+    live: "https://sonu-threads.onrender.com",
+    github: "https://github.com/sonuchahar7351/instagram-Threads",
   },
   {
     num: "02",
     category: "Full Stack",
     title: "project 2",
-    description: "laalfjl jfjkf akldfjakdf lkjdfkfjsdfl slfdjaslf ",
+    description: "It is an e-commerce. In this project, all the functionality of an e-commerce are put like buy products, add to cart items, and payment gateway and order summary",
     stack: [{ name: "React.js" }, { name: "Node.js" }, { name: "MongoDB" }],
     image: "/assets/work/thumb2.png",
-    live: "",
+    live: "https://chahar-electronic.onrender.com",
+    github: "https://github.com/sonuchahar7351/CE-Shop",
+  },
+  {
+    num: "03",
+    category: "Full Stack",
+    title: "project 3",
+    description: "This is fully responsive e-commerce web application. I used MERN technology for developing this projects. currently working, on this project to add payment gateway and order summary",
+    stack: [{ name: "React.js" }, { name: "Node.js" }, { name: "MongoDB" }],
+    image: "/assets/work/thumb3.png",
+    live: "https://e-commerce-digital-dazzle-store-frontend.onrender.com",
     github: "",
   },
+  {
+    num: "04",
+    category: "Full Stack",
+    title: "project 4",
+    description: "This is fully responsive clone of Instagram in which all common featurs are added like post create, like/unlike post, comment on post, user-Profile page, etc.",
+    stack: [{ name: "React.js" }, { name: "Node.js" }, { name: "MongoDB" }],
+    image: "/assets/work/thumb4.png",
+    live: "https://instagram-cpns.onrender.com",
+    github: "",
+  }
 ];
 const Work = () => {
-  console.log(projects[0].image)
   const [project, setProject] = useState(projects[0]);
 
   const handleSlideChange = (swiper) => {

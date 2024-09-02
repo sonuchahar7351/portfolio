@@ -7,7 +7,7 @@ import {SiTailwindcss, SiNextdotjs} from 'react-icons/si'
 
 const about = {
   title: "About me",
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint dolore dicta soluta ea quos earum ipsam sed pariatur rem assumenda. Officiis neque nobis suscipit illum blanditiis repudiandae animi nostrum ratione.",
+  description: "Hi, I'm Saunoo Chahar, a frontend developer at Ninepages Techsolutions Pvt. Ltd., where I've been honing my skills since April 2024. I specialize in creating dynamic and responsive web interfaces using modern technologies like React.js, Tailwind CSS, and Chakra UI. My focus is on building user-friendly and efficient applications that enhance user experience and drive business results.",
   info:[
     {
       fieldName: "Name",
@@ -47,11 +47,11 @@ const about = {
 const experience = {
     Icon: '/assets/resume/bedge.svg',
     title: "My experience",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, eveniet.Voluptates quibusdam, sunt explicabo inventore.",
+    description: "Delivered custom web development solutions for clients, focusing on user-friendly designs and performance optimization.Worked with various clients to understand their needs, providing tailored solutions that drive results",
     items:[
       {
         company : "NINEPEGES Techsolutions Pvt. Ltd.",
-        position : "Junior Software Developer",
+        position : "Front-End Developer",
         duration: "April 2024 - Present",
       },
       {
@@ -65,7 +65,7 @@ const experience = {
 const education = {
   Icon: '/assets/resume/cap.svg',
   title: "My education",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, eveniet.Voluptates quibusdam, sunt explicabo inventore.",
+  description: "I recently completed my Bachelor of Computer Applications (BCA) in July 2024. Now that I've graduated, I'm excited to fully dedicate myself to advancing my career in frontend development and applying the skills and knowledge I've gained in a professional setting.",
   items:[
     {
       institution : "S.S. Educational Institute, Gamri Malpura Agra",
@@ -87,7 +87,7 @@ const education = {
 
 const skills = {
   title: "My skills",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique, eveniet.Voluptates quibusdam, sunt explicabo inventore.",
+  description: "Proficient in MERN stack (MongoDB, Express.js, React.js, Node.js) with extensive experience in building scalable web applications. Adept in TypeScript for developing robust, type-safe code. Experienced in Docker for containerization, ensuring consistent development and deployment environments. Competent in Next.js for building performant, server-rendered React applications.",
   skillList:[
     {
       icon : <FaHtml5 />,
